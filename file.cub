@@ -1,0 +1,20 @@
+R 900 900
+
+NO ./greystone.xpm
+SO ./mossy.xpm
+WE ./redbrick.xpm
+EA ./bluestone.xpm
+
+S ./birmil.xpm
+
+F 200,20,2
+C 0,2,200
+
+1 1 1 1 1 1 1 1
+1 0 0 0 0 0 1 1
+1 0 1 1 0 0 0 1
+1 0 0 1 0 0 0 1
+1 0 1 1 N 0 0 1
+1 0 0 0 0 0 0 1
+1 1 1 1 0 1 1 1
+1 1 1 1 1 1 1 1
